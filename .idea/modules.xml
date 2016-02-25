@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DesignPattern.iml" filepath="$PROJECT_DIR$/.idea/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DesignPatternWithPHP/.idea/DesignPatternWithPHP.iml" filepath="$PROJECT_DIR$/../DesignPatternWithPHP/.idea/DesignPatternWithPHP.iml" />
     </modules>
   </component>
 </project>
