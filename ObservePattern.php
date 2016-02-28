@@ -1,5 +1,9 @@
 <?php
 
+namespace ObservePattern;
+use SplObserver;
+use SplSubject;
+
 class subject implements SplSubject
 {
     private $observers;
